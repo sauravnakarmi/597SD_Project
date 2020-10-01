@@ -1,2 +1,2 @@
-hello world
-ayan is cool
+hello world;
+ayan is cool;
